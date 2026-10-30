@@ -3,5 +3,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent\046com/hub-mm2/Murder_Mys
 
 
 UPDATED PULSE HUB⚡👇🏻
-local u="https://raw.githubusercontent.com/".."hub-mm2/Murder_Mystery2/".."main/Pulse_Hub.lua"
+local u="https://raw.".."githubuser".."content.c".."om/".."hub-mm2/Murder_Mystery2/".."main/Pulse_Hub.lua"
 loadstring(game:HttpGet(u))()
